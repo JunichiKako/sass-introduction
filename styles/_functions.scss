@@ -1,0 +1,7 @@
+// 関数も定義できる
+
+    @mixin flexCenter {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
